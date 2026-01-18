@@ -1,0 +1,43 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4
+      }
+    },
+    { "type": "bitmap", "file": "custom:teams/a/arcane.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/close_combat.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/deathwish.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/divine_rising.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/donut_kingdom.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/femme_fatales.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/hang_10.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/impact.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/nova.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/party_animals.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/rat_tactics.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/riptide.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/serpentine.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/syndicate.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/tavern.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/a/ultraviolet.png", "chars": [""], "height": 8, "ascent": 8 },
+
+    { "type": "bitmap", "file": "custom:teams/b/arcane_academy.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/donut_droppers.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/eclipse.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/eternal_rising.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/fist_fight.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/hang_plus_10.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/heatseekers.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/impulse.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/infrared.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/mouse_trap.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/serpens.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/shinjikeito.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/shotglass.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/sirens.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/sugar_rush.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/thunder.png", "chars": [""], "height": 8, "ascent": 8 }
+  ]
+}
