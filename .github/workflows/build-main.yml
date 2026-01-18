@@ -28,21 +28,21 @@ jobs:
 
       - name: Create MAIN ZIP
         run: |
-          rm -f BMCC-main.zip
+          rm -f IBL-main.zip
           cd mainPack
-          zip -r ../BMCC-main.zip . -x ".git/*" ".github/*"
+          zip -r ../IBL-main.zip . -x ".git/*" ".github/*"
           cd ..
 
       - name: Compute SHA-1 hash and save as artifact
         run: |
-          SHA1=$(sha1sum BMCC-main.zip | awk '{ print $1 }')
-          echo "$SHA1" > bmcc-main.hash
+          SHA1=$(sha1sum IBL-main.zip | awk '{ print $1 }')
+          echo "$SHA1" > ibl-main.hash
 
       - name: Upload MAIN ZIP to release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: mainLatest
-          files: BMCC-main.zip
+          files: IBL-main.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -50,7 +50,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: main-hash
-          path: bmcc-main.hash
+          path: ibl-main.hash
 
   update-version-and-hash:
     name: Update MAIN Version and Hash
@@ -70,7 +70,7 @@ jobs:
       - name: Update MAIN version and hash in root file
         run: |
           git pull origin main
-          SHA1=$(cat bmcc-main.hash)
+          SHA1=$(cat ibl-main.hash)
           NEXT_VERSION=${{ needs.build.outputs.NEXT_VERSION }}
           sed -i "s/^[[:space:]]*MAIN:.*/    MAIN: $NEXT_VERSION/" packVersion.txt
           sed -i "s/^[[:space:]]*MAIN_HASH:.*/    MAIN_HASH: $SHA1/" packVersion.txt
