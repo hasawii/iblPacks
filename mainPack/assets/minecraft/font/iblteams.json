@@ -38,6 +38,8 @@
     { "type": "bitmap", "file": "custom:teams/b/shotglass.png", "chars": [""], "height": 8, "ascent": 8 },
     { "type": "bitmap", "file": "custom:teams/b/sirens.png", "chars": [""], "height": 8, "ascent": 8 },
     { "type": "bitmap", "file": "custom:teams/b/sugar_rush.png", "chars": [""], "height": 8, "ascent": 8 },
-    { "type": "bitmap", "file": "custom:teams/b/thunder.png", "chars": [""], "height": 8, "ascent": 8 }
+    { "type": "bitmap", "file": "custom:teams/b/thunder.png", "chars": [""], "height": 8, "ascent": 8 },
+
+    { "type": "bitmap", "file": "custom:ibl.png", "chars": [""], "height": 8, "ascent": 8 }
   ]
 }

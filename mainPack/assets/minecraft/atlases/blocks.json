@@ -130,6 +130,10 @@
             {
             "type": "single",
             "resource": "custom:teams/b/thunder"
+              },
+            {
+            "type": "single",
+            "resource": "custom:ibl"
               }
 	]
 }
