@@ -32,7 +32,7 @@
     { "type": "bitmap", "file": "custom:teams/b/heatseekers.png", "chars": [""], "height": 8, "ascent": 8 },
     { "type": "bitmap", "file": "custom:teams/b/impulse.png", "chars": [""], "height": 8, "ascent": 8 },
     { "type": "bitmap", "file": "custom:teams/b/infrared.png", "chars": [""], "height": 8, "ascent": 8 },
-    { "type": "bitmap", "file": "custom:teams/b/mouse_trap.png", "chars": [""], "height": 8, "ascent": 8 },
+    { "type": "bitmap", "file": "custom:teams/b/mouse_trap.png", "chars": [""], "height": 8, "ascent": 8 },
     { "type": "bitmap", "file": "custom:teams/b/serpens.png", "chars": [""], "height": 8, "ascent": 8 },
     { "type": "bitmap", "file": "custom:teams/b/shinjikeito.png", "chars": [""], "height": 8, "ascent": 8 },
     { "type": "bitmap", "file": "custom:teams/b/shotglass.png", "chars": [""], "height": 8, "ascent": 8 },
