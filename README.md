@@ -1,3 +1,3 @@
-This repository was entirely made just to host resource packs for the MCC Island Community Server: The Island Battle Box League (IBL). 
+This repository is entirely just to host resource packs for the Island Battle Box League (IBL), an MCC Island Community Server. 
 
 *We are not affiliated or endorsed by Noxcrew*
