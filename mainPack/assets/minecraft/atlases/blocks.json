@@ -67,71 +67,7 @@
 
 
 
-            {
-            "type": "single",
-            "resource": "custom:teams/b/arcane_academy"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/donut_droppers"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/eclipse"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/eternal_rising"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/fist_fight"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/hang_plus_10"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/heatseekers"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/impulse"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/infrared"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/mouse_trap"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/serpens"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/shinjikeito"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/shotglass"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/sirens"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/sugar_rush"
-              },
-            {
-            "type": "single",
-            "resource": "custom:teams/b/thunder"
-              },
-            {
+                        {
             "type": "single",
             "resource": "custom:ibl"
               }
