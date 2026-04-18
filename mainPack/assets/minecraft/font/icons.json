@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+	     "type": "bitmap",
+	     "file": "minecraft:font/training.png",
+		 "height": 10,
+		 "ascent": 9,
+		 "chars": ["\uE001"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "minecraft:font/garrison.png",
+		 "height": 10,
+		 "ascent": 9,
+		 "chars": ["\uE002"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "minecraft:font/scouts.png",
+		 "height": 10,
+		 "ascent": 9,
+		 "chars": ["\uE003"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "minecraft:font/military.png",
+		 "height": 10,
+		 "ascent": 9,
+		 "chars": ["\uE004"]
+		},
+		{
+	     "type": "bitmap",
+	     "file": "minecraft:font/empty.png",
+		 "height": 10,
+		 "ascent": 9,
+		 "chars": ["\uE005"]
+		}
+    ]
+}

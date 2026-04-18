@@ -1,0 +1,23 @@
+{
+    "custom.vogelimkafig": { "category": "music", "sounds": [{ "name": "music/custom/VogelImKafig", "stream": true }] },
+    "custom.doa": { "category": "music", "sounds": [{ "name": "music/custom/DOA", "stream": true }] },
+    "custom.titan1": { "category": "music", "sounds": [{ "name": "music/custom/Titan1", "stream": true }] },
+    "custom.ema": { "category": "music", "sounds": [{ "name": "music/custom/EMA", "stream": true }] },
+    "custom.titan2": { "category": "music", "sounds": [{ "name": "music/custom/Titan2", "stream": true }] },
+    "custom.bauklotze": { "category": "music", "sounds": [{ "name": "music/custom/Bauklotze", "stream": true }] },
+    "custom.2chijou": { "category": "music", "sounds": [{ "name": "music/custom/2chijou", "stream": true }] },
+    "custom.xl-tt": { "category": "music", "sounds": [{ "name": "music/custom/Xl-Tt", "stream": true }] },
+    "custom.callyourname": { "category": "music", "sounds": [{ "name": "music/custom/CallYourName", "stream": true }] },
+    "custom.omake": { "category": "music", "sounds": [{ "name": "music/custom/Omake", "stream": true }] },
+    "custom.counterattackmankind": { "category": "music", "sounds": [{ "name": "music/custom/CounterAttackMankind", "stream": true }] },
+    "custom.armyattack": { "category": "music", "sounds": [{ "name": "music/custom/ArmyAttack", "stream": true }] },
+    "custom.eye-water": { "category": "music", "sounds": [{ "name": "music/custom/Eye-Water", "stream": true }] },
+    "custom.rittaikidou": { "category": "music", "sounds": [{ "name": "music/custom/Rittaikidou", "stream": true }] },
+    "custom.thereluctantheroes": { "category": "music", "sounds": [{ "name": "music/custom/TheReluctantHeroes", "stream": true }] },
+    "custom.attackontitan": { "category": "music", "sounds": [{ "name": "music/custom/AttackOnTitan", "stream": true }] },
+    "custom.thedogs": { "category": "music", "sounds": [{ "name": "music/custom/TheDogs", "stream": true }] },
+    "custom.k21": { "category": "music", "sounds": [{ "name": "music/custom/K21", "stream": true }] },
+    "custom.barricades": { "category": "music", "sounds": [{ "name": "music/custom/Barricades", "stream": true }] },
+    "custom.yamanaime": { "category": "music", "sounds": [{ "name": "music/custom/Yamanaime", "stream": true }] }
+  }
+  

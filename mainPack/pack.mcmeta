@@ -1,6 +1,27 @@
 {
-    "pack": {
-        "description": "IBL Pack - By LukeEXE & hasawi",
-        "pack_format": 64
-  	  }
+  "pack": {
+    "description": [
+			{
+				"text": "■ Craft on Titan Server Resources\n■",
+				"color": "#808080"
+			},
+			{
+              	 		"text": " v1.0.0 ",
+				"color": "gray"
+			},
+			{
+              	 		"text": "craftontitan.com",
+				"color": "#808080"
+			}
+		],
+    "pack_format": 84
+  },
+    "filter": {
+        "block": [
+            {
+            "namespace": "minecraft",
+            "path": "advancement/"
+            }
+        ]
+    }
 }
